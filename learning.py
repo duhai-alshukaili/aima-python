@@ -9,6 +9,8 @@ from qpsolvers import solve_qp
 from probabilistic_learning import NaiveBayesLearner
 from utils import *
 
+# some added var
+a = 22
 
 class DataSet:
     """
